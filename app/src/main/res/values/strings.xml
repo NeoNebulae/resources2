@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">resources2</string>
+    <string name="welcome_message">Welcome to My App!</string>
+    <string name="click_me">Click me!</string>
+</resources>
